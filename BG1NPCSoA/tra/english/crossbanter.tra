@@ -750,12 +750,12 @@ With King Cole and his fiddlers three!~
 @690 = ~Wait, Safana! I want a word with you. Privately.~
 @691 = ~Go ahead.~
 @692 = ~Let me buy you a drink first. I know we didn't get along and all...~
-@693 = ~Hmm. I didn't think you'd... Whatever. I think I know what we're gonna to talk about.~
+@693 = ~Hmm. I didn't think you'd... Whatever. I think I know what we're gonna talk about.~
 @694 = ~Owner! Wine for me and my... friend!~
-@695 = ~*Amazon lowers her voice* Yeah. Well... how shall I say it... Devil!~
-@696 = ~Anyway, even if you use your seduction skills rather than direct action, you're pretty good at bossing men around.~
+@695 = ~*The amazon lowers her voice* Yeah. Well...~
+@696 = ~Anyway, even if you use your seduction skills rather than direct action, you're pretty good at bossin' men around.~
 @697 = ~Keep going, it's getting interesting.~ 
-@698 = ~You always get the lion's share of male attention. Men do what you say, just like those dogs. You snap your fingers and they jump through the hoop. I...~
+@698 = ~You always get the lion's share of male attention. Men do what you say, just like any dogs. You snap your fingers and they jump through the hoop. I...~
 @699 = ~Do you want to learn this art? Am I right?~
 @700 = ~Maybe. Oh, hell, yes! I want to learn your mastery. To... to...~
 @701 = ~*Calishite woman hiding a smile* Well, well, I get it, dearie - to command men with no effort at all, right?~
@@ -763,17 +763,17 @@ With King Cole and his fiddlers three!~
 @703 = ~So let's start with the basics.~
 @704 = ~Tell me!~
 @705 = ~Have you had any experience of love in your life?~
-@706 = ~I had a minstrel following me around with romantic sobs about this and that: nightingales, forget-me-nots. I told him if he didn't leave me alone, I'd burn all his stupid poems. But he didn't back off.~
+@706 = ~I had a minstrel followin' me around with romantic sobs about this and that: nightingales, forget-me-nots. I told him if he didn't leave me alone, I'd burn all his stupid poems. But he didn't back off.~
 @707 = ~*Sighs* I see. That's pretty much how I imagined it. ~
-@708 = ~Okay, let's get down to business. First of all, remember, you can't command if you don't know anything. So, before he opens his mouth, you need to know what he's going to talk about, before he opens out his wallet, you need to know how many coins are in it. And so on.~
+@708 = ~Okay, let's get down to business. First of all, remember, you can't command if you don't know anything. So, before he opens his mouth, you need to know what he's gonna talk about. Before he pulls out his wallet, you need to know how many coins are in it. And so on.~
 @709 = ~Oh!? In the name of all the gods, how am I supposed to know that? ~
 @710 = ~Observe closely. You're not blind. Forget the words: "I don't know". You know everything. You control everything.~
 @711 = ~Got it! I must watch that useless male.~
-@712 = ~And all the time, darling. Then, what he needs in bed he shall get. If he wants to do it standing on his hands, then do it standing on his hands, no matter what.~
+@712 = ~And all the time, darling. Then, what he needs in bed he shall get. If he wants you to do it standin' on your hands, then do it standin' on your hands, no matter what.~
 @713 = ~Indulge his whims? Are you serious? I won't do that.~
 @714 = ~Yes, you will. If you can't give him what he wants, he'll find someone who can. And end of story. But never give him too much.~
 @715 = ~How so? I don't understand... do this and then do the opposite!~
-@716 = ~Give up your fortress piece by piece, fort by fort, moat by moat; he must seek your every sign of attention, your every favour. Is that clearer?~
+@716 = ~Give up your fortress piece by piece, fort by fort, moat by moat; he must seek your every sign of attention, your every favour. Is that clearer, darling?~
 @717 = ~No. I don't like it. A stupid male animal is not worth it.~
 @718 = ~I think you can handle it. He will get bored and cool off quickly if he takes it all at once. Learn to tease his appetite. Keep him hungry, always.~
 @719 = ~I think... I think I know what you mean.~
@@ -798,7 +798,7 @@ With King Cole and his fiddlers three!~
 @736 = ~But the story about how he burned down the plague barracks with a fireball was nice. None of the plague rats escaped!~ // Злой маг, колдун
 @737 = ~But the story about him killing the Fallen City Hunters was great!~ // Падший следопыт
 @738 = ~But the story about how he single-handedly dealt with five armed soldiers and chopped them to pieces was okay.~ // Warrior
-@739 = ~But the story about how he created a terrible golem and then fought with it for a long time and won was okay.~ // Good Mage
+@739 = ~But the story about how he created a monstrous golem by mistake, and then fought it for a long time and won, was okay.~ // Good Mage
 @740 = ~But the story about how he broke into the house of some fat rich man and stole all the property under the guards' noses, and no one noticed anything, was okay.~ // Thief
 @741 = ~But the story about how he broke into the slave traders' camp and killed those pathetic boors like mangy dogs was okay.~ // Good Paladin
 @742 = ~Looks like you're on the right track. Well done, my friend.~
@@ -809,17 +809,17 @@ With King Cole and his fiddlers three!~
 
 // Safana - PC (if Shar-Teel is in an active romance with the player)
 @747 = ~Let's move away from the group so they don't hear us. I want to tell you something.~
-@748 = ~*You send the party forward, out of range of Shar-Teel's sensitive ears, but not out of her jealous eyes* ~
+@748 = ~*You send the party forward, out of range of Shar-Teel's sensitive ears, but not out of her jealous eyes*~
 @749 = ~Well done. You have domesticated Shar-Teel. Who would have thought that was possible?~
 @750 = ~Do you really think so?~
 @751 = ~Our relationship is no concern of yours, Safana. ~
-@752 = ~Of course not. If you tell Shar-Teel that Toril stands on three giant turtles floating in an ocean of molasses, she'll believe you. Every word, my friend.~
-@753 = ~Of course not. But you'll listen to me out. If you tell Shar-Teel that Toril stands on three giant turtles floating in an ocean of molasses, she'll believe you. Every word, my friend.~
+@752 = ~Of course not. If you tell Shar-Teel that Toril stands on three giant turtles floating in an ocean of molasses, she'll believe you. Your every word, my friend.~
+@753 = ~Of course not. But you'll hear me out. If you tell Shar-Teel that Toril stands on three giant turtles floating in an ocean of molasses, she'll believe you. Every single word you say, my friend.~
 @754 = ~Why are you telling me all this?~
 @755 = ~So you can learn to appreciate what you have. For example, your devoted partner. Such a commodity is rare in the Realms.~
 @756 = ~I heard you, Safana.~
 @757 = ~I'll decide for myself what I value and what I don't.~
-@758 = ~Good. Now I'd better get back in line, I doubt our the Furious Bearess will appreciate how hard I'm working for her here.~
+@758 = ~Good. Now I'd better get back in line, I doubt our Furious Lady Bear will appreciate how hard I'm working as her personal procuress here.~
 
 // NEW (v.15.1)
 // Ajantis - Skie 2
